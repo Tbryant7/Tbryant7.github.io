@@ -1,9 +1,10 @@
 .header {
     color: red;
+    font-style: italic;
 }
 
 .subheader {
-    color: blue;
+    color: purple;
     font-style: italic;
 }
 
@@ -16,5 +17,5 @@
 
 .nav-option {
     color: rgb(50, 238, 50);
-    margin-right: 5px;
+    margin-right: 50%;
 }
